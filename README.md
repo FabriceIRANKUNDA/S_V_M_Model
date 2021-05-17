@@ -1,7 +1,7 @@
 
 # Support Vector Machines Project
 
-Welcome to your Support Vector Machine Project! Just follow along with the notebook, We will be analyzing the famous iris data set!
+Welcome to the Support Vector Machine Project! Just follow along with the notebook, We will be analyzing the famous iris data set!
 
 ## The Data
 For this project, we will be using the famous [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
